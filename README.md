@@ -1,3 +1,3 @@
 # percopyne
-![percopyne logo](logo)
+![percopyne logo](logo.png)
 Continuous percolation problems in python.
